@@ -1,1 +1,1 @@
-# Solving_DE_Using_ANN
+# Solving Differential Equations Using ANN
